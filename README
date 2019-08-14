@@ -1,4 +1,4 @@
-This is a BurrTools-0.6.3 by Andreas Röver with small fixes that
+This is BurrTools-0.6.3 by Andreas Röver with small fixes that
 enables us to build it on Fedora 30.  Also, the building system
 was changed from autotools to cmake.  I used CMakeLists.txt's by
 jeffnamkung
