@@ -3,7 +3,7 @@ enables us to build it on Fedora 30.  Also, the building system
 was changed from autotools to cmake.  I used CMakeLists.txt's by
 jeffnamkung
 
- https://github.com/jeffnamkung/Burrtools/tree/master/src/gui
+ https://github.com/jeffnamkung/Burrtools
 
 as reference.  Have fun!
 
